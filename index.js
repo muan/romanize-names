@@ -6,10 +6,12 @@ var removeDiacritics = require('diacritics').remove
 module.exports = function (name, system) {
   system = system || "WG"
 
-  var result = name.split('').map(function (word) {
+  var chars = name.split('')
+  var surnameLength = chars.length > 3 ? 2 : 1
 
+  var result = chars.map(function (word, i) {
     // Should it be subbed?
-    if(Object.keys(surnameSubs).indexOf(word) >= 0) {
+    if(i < surnameLength && Object.keys(surnameSubs).indexOf(word) >= 0) {
       word = surnameSubs[word]
     }
 
@@ -26,6 +28,8 @@ function formatName (arr) {
     return arr.join(' ')
   } else if (arr.length === 3) {
     return arr[1] + "-" + arr[2] + " " + arr[0]
+  } else if (arr.length === 4) {
+    return arr[2] + "-" + arr[3] + " " + arr[0] + " " + arr[1]
   }
 }
 

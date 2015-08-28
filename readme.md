@@ -17,8 +17,8 @@ romanize(name_in_zhTW, system)
 
 `system` String
   - `WG` (default) https://en.wikipedia.org/wiki/Wade%E2%80%93Giles
-  - `HANYU` https://en.wikipedia.org/wiki/Tongyong_Pinyin
   - `MPS-II` https://en.wikipedia.org/wiki/Mandarin_Phonetic_Symbols_II
+  - `HANYU` https://en.wikipedia.org/wiki/Tongyong_Pinyin
 
 ## Examples
 
@@ -26,22 +26,33 @@ romanize(name_in_zhTW, system)
 console.log(romanize('蔡英文'))
 > Ying-Wen Tsai
 
-console.log(romanize('蔡英文', 'HANYU'))
-> Ying-Wun Cai
-
 console.log(romanize('蔡英文', 'MPS-II'))
 > Ying-Wen Tsai
+
+console.log(romanize('蔡英文', 'HANYU'))
+> Ying-Wun Cai
 ```
 
 ```javascript
 console.log(romanize('秋木安'))
 > Mu-An Chiu
 
-console.log(romanize('秋木安', 'HANYU'))
-> Mu-An Ciou
-
 console.log(romanize('秋木安', 'MPS-II'))
 > Mu-An Chiou
+
+console.log(romanize('秋木安', 'HANYU'))
+> Mu-An Ciou
+```
+
+```javascript
+console.log(romanize('范姜峻宏'))
+> Chun-Hung Fan Chiang
+
+console.log(romanize('范姜峻宏', 'MPS-II'))
+> Jiun-Hung Fan Jiang
+
+console.log(romanize('范姜峻宏', 'HANYU'))
+> Jyun-Hong Fan Jiang
 ```
 
 ## Data Sources
