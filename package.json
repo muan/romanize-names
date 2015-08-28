@@ -1,0 +1,29 @@
+{
+  "name": "romanize-names",
+  "version": "1.0.0",
+  "description": "Romanizing Chinese names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muan/romanize-names.git"
+  },
+  "keywords": [
+    "romanize",
+    "unihan",
+    "chinese",
+    "mandarin"
+  ],
+  "author": "Mu-An Chiou <me@muanchiou.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muan/romanize-names/issues"
+  },
+  "homepage": "https://github.com/muan/romanize-names#readme",
+  "dependencies": {
+    "diacritics": "^1.2.2",
+    "unicode-mandarin-readings": "^1.0.0"
+  }
+}

@@ -1,0 +1,2047 @@
+{
+  "BA": {
+    "HANYU": "BA",
+    "MPS-II": "BA",
+    "WG": "PA"
+  },
+  "BO": {
+    "HANYU": "BO",
+    "MPS-II": "BO",
+    "WG": "PO"
+  },
+  "BAI": {
+    "HANYU": "BAI",
+    "MPS-II": "BAI",
+    "WG": "PAI"
+  },
+  "BEI": {
+    "HANYU": "BEI",
+    "MPS-II": "BEI",
+    "WG": "PEI"
+  },
+  "BAO": {
+    "HANYU": "BAO",
+    "MPS-II": "BAU",
+    "WG": "PAO"
+  },
+  "BAN": {
+    "HANYU": "BAN",
+    "MPS-II": "BAN",
+    "WG": "PAN"
+  },
+  "BEN": {
+    "HANYU": "BEN",
+    "MPS-II": "BEN",
+    "WG": "PEN"
+  },
+  "BANG": {
+    "HANYU": "BANG",
+    "MPS-II": "BANG",
+    "WG": "PANG"
+  },
+  "BENG": {
+    "HANYU": "BENG",
+    "MPS-II": "BENG",
+    "WG": "PENG"
+  },
+  "BI": {
+    "HANYU": "BI",
+    "MPS-II": "BI",
+    "WG": "PI"
+  },
+  "BIE": {
+    "HANYU": "BIE",
+    "MPS-II": "BIE",
+    "WG": "PIEH"
+  },
+  "BIAO": {
+    "HANYU": "BIAO",
+    "MPS-II": "BIAU",
+    "WG": "PIAO"
+  },
+  "BIAN": {
+    "HANYU": "BIAN",
+    "MPS-II": "BIAN",
+    "WG": "PIEN"
+  },
+  "BIN": {
+    "HANYU": "BIN",
+    "MPS-II": "BIN",
+    "WG": "PIN"
+  },
+  "BING": {
+    "HANYU": "BING",
+    "MPS-II": "BING",
+    "WG": "PING"
+  },
+  "BU": {
+    "HANYU": "BU",
+    "MPS-II": "BU",
+    "WG": "PU"
+  },
+  "PA": {
+    "HANYU": "PA",
+    "MPS-II": "PA",
+    "WG": "PA"
+  },
+  "PO": {
+    "HANYU": "PO",
+    "MPS-II": "PO",
+    "WG": "PO"
+  },
+  "PAI": {
+    "HANYU": "PAI",
+    "MPS-II": "PAI",
+    "WG": "PAI"
+  },
+  "PEI": {
+    "HANYU": "PEI",
+    "MPS-II": "PEI",
+    "WG": "PEI"
+  },
+  "PAO": {
+    "HANYU": "PAO",
+    "MPS-II": "PAU",
+    "WG": "PAO"
+  },
+  "POU": {
+    "HANYU": "POU",
+    "MPS-II": "POU",
+    "WG": "POU"
+  },
+  "PAN": {
+    "HANYU": "PAN",
+    "MPS-II": "PAN",
+    "WG": "PAN"
+  },
+  "PEN": {
+    "HANYU": "PEN",
+    "MPS-II": "PEN",
+    "WG": "PEN"
+  },
+  "PANG": {
+    "HANYU": "PANG",
+    "MPS-II": "PANG",
+    "WG": "PANG"
+  },
+  "PENG": {
+    "HANYU": "PENG",
+    "MPS-II": "PENG",
+    "WG": "PENG"
+  },
+  "PI": {
+    "HANYU": "PI",
+    "MPS-II": "PI",
+    "WG": "PI"
+  },
+  "PIE": {
+    "HANYU": "PIE",
+    "MPS-II": "PIE",
+    "WG": "PIEH"
+  },
+  "PIAO": {
+    "HANYU": "PIAO",
+    "MPS-II": "PIAU",
+    "WG": "PIAO"
+  },
+  "PIAN": {
+    "HANYU": "PIAN",
+    "MPS-II": "PIAN",
+    "WG": "PIEN"
+  },
+  "PIN": {
+    "HANYU": "PIN",
+    "MPS-II": "PIN",
+    "WG": "PIN"
+  },
+  "PING": {
+    "HANYU": "PING",
+    "MPS-II": "PING",
+    "WG": "PING"
+  },
+  "PU": {
+    "HANYU": "PU",
+    "MPS-II": "PU",
+    "WG": "PU"
+  },
+  "MA": {
+    "HANYU": "MA",
+    "MPS-II": "MA",
+    "WG": "MA"
+  },
+  "MO": {
+    "HANYU": "MO",
+    "MPS-II": "MO",
+    "WG": "MO"
+  },
+  "MAI": {
+    "HANYU": "MAI",
+    "MPS-II": "MAI",
+    "WG": "MAI"
+  },
+  "MEI": {
+    "HANYU": "MEI",
+    "MPS-II": "MEI",
+    "WG": "MEI"
+  },
+  "MAO": {
+    "HANYU": "MAO",
+    "MPS-II": "MAU",
+    "WG": "MAO"
+  },
+  "MOU": {
+    "HANYU": "MOU",
+    "MPS-II": "MOU",
+    "WG": "MOU"
+  },
+  "MAN": {
+    "HANYU": "MAN",
+    "MPS-II": "MAN",
+    "WG": "MAN"
+  },
+  "MEN": {
+    "HANYU": "MEN",
+    "MPS-II": "MEN",
+    "WG": "MEN"
+  },
+  "MANG": {
+    "HANYU": "MANG",
+    "MPS-II": "MANG",
+    "WG": "MANG"
+  },
+  "MENG": {
+    "HANYU": "MENG",
+    "MPS-II": "MENG",
+    "WG": "MENG"
+  },
+  "MI": {
+    "HANYU": "MI",
+    "MPS-II": "MI",
+    "WG": "MI"
+  },
+  "MIE": {
+    "HANYU": "MIE",
+    "MPS-II": "MIE",
+    "WG": "MIEH"
+  },
+  "MIAO": {
+    "HANYU": "MIAO",
+    "MPS-II": "MIAU",
+    "WG": "MIAO"
+  },
+  "MIU": {
+    "HANYU": "MIOU",
+    "MPS-II": "MIOU",
+    "WG": "MIU"
+  },
+  "MIAN": {
+    "HANYU": "MIAN",
+    "MPS-II": "MIAN",
+    "WG": "MIEN"
+  },
+  "MIN": {
+    "HANYU": "MIN",
+    "MPS-II": "MIN",
+    "WG": "MIN"
+  },
+  "MING": {
+    "HANYU": "MING",
+    "MPS-II": "MING",
+    "WG": "MING"
+  },
+  "MU": {
+    "HANYU": "MU",
+    "MPS-II": "MU",
+    "WG": "MU"
+  },
+  "ME": {
+    "HANYU": "ME",
+    "MPS-II": "ME",
+    "WG": "ME"
+  },
+  "FA": {
+    "HANYU": "FA",
+    "MPS-II": "FA",
+    "WG": "FA"
+  },
+  "FO": {
+    "HANYU": "FO",
+    "MPS-II": "FO",
+    "WG": "FO"
+  },
+  "FEI": {
+    "HANYU": "FEI",
+    "MPS-II": "FEI",
+    "WG": "FEI"
+  },
+  "FOU": {
+    "HANYU": "FOU",
+    "MPS-II": "FOU",
+    "WG": "FOU"
+  },
+  "FAN": {
+    "HANYU": "FAN",
+    "MPS-II": "FAN",
+    "WG": "FAN"
+  },
+  "FEN": {
+    "HANYU": "FEN",
+    "MPS-II": "FEN",
+    "WG": "FEN"
+  },
+  "FANG": {
+    "HANYU": "FANG",
+    "MPS-II": "FANG",
+    "WG": "FANG"
+  },
+  "FENG": {
+    "HANYU": "FONG",
+    "MPS-II": "FENG",
+    "WG": "FENG"
+  },
+  "FU": {
+    "HANYU": "FU",
+    "MPS-II": "FU",
+    "WG": "FU"
+  },
+  "DA": {
+    "HANYU": "DA",
+    "MPS-II": "DA",
+    "WG": "TA"
+  },
+  "DE": {
+    "HANYU": "DE",
+    "MPS-II": "DE",
+    "WG": "TE"
+  },
+  "DAI": {
+    "HANYU": "DAI",
+    "MPS-II": "DAI",
+    "WG": "TAI"
+  },
+  "DEI": {
+    "HANYU": "DEI",
+    "MPS-II": "DEI",
+    "WG": "TEI"
+  },
+  "DAO": {
+    "HANYU": "DAO",
+    "MPS-II": "DAU",
+    "WG": "TAO"
+  },
+  "DOU": {
+    "HANYU": "DOU",
+    "MPS-II": "DOU",
+    "WG": "TOU"
+  },
+  "DAN": {
+    "HANYU": "DAN",
+    "MPS-II": "DAN",
+    "WG": "TAN"
+  },
+  "DANG": {
+    "HANYU": "DANG",
+    "MPS-II": "DANG",
+    "WG": "TANG"
+  },
+  "DENG": {
+    "HANYU": "DENG",
+    "MPS-II": "DENG",
+    "WG": "TENG"
+  },
+  "DI": {
+    "HANYU": "DI",
+    "MPS-II": "DI",
+    "WG": "TI"
+  },
+  "DIE": {
+    "HANYU": "DIE",
+    "MPS-II": "DIE",
+    "WG": "TIEH"
+  },
+  "DIAO": {
+    "HANYU": "DIAO",
+    "MPS-II": "DIAU",
+    "WG": "TIAO"
+  },
+  "DIU": {
+    "HANYU": "DIOU",
+    "MPS-II": "DIOU",
+    "WG": "TIU"
+  },
+  "DIAN": {
+    "HANYU": "DIAN",
+    "MPS-II": "DIAN",
+    "WG": "TIEN"
+  },
+  "DIANG": {
+    "HANYU": "DIANG",
+    "MPS-II": "DIANG",
+    "WG": "DIANG"
+  },
+  "DING": {
+    "HANYU": "DING",
+    "MPS-II": "DING",
+    "WG": "TING"
+  },
+  "DU": {
+    "HANYU": "DU",
+    "MPS-II": "DU",
+    "WG": "TU"
+  },
+  "DUO": {
+    "HANYU": "DUO",
+    "MPS-II": "DUO",
+    "WG": "TO"
+  },
+  "DUI": {
+    "HANYU": "DUEI",
+    "MPS-II": "DUEI",
+    "WG": "TUI"
+  },
+  "DUAN": {
+    "HANYU": "DUAN",
+    "MPS-II": "DUAN",
+    "WG": "TUAN"
+  },
+  "DUN": {
+    "HANYU": "DUN",
+    "MPS-II": "DUEN",
+    "WG": "TUN"
+  },
+  "DONG": {
+    "HANYU": "DONG",
+    "MPS-II": "DUNG",
+    "WG": "TUNG"
+  },
+  "TA": {
+    "HANYU": "TA",
+    "MPS-II": "TA",
+    "WG": "TA"
+  },
+  "TE": {
+    "HANYU": "TE",
+    "MPS-II": "TE",
+    "WG": "TE"
+  },
+  "TAI": {
+    "HANYU": "TAI",
+    "MPS-II": "TAI",
+    "WG": "TAI"
+  },
+  "TAO": {
+    "HANYU": "TAO",
+    "MPS-II": "TAU",
+    "WG": "TAO"
+  },
+  "TOU": {
+    "HANYU": "TOU",
+    "MPS-II": "TOU",
+    "WG": "TOU"
+  },
+  "TAN": {
+    "HANYU": "TAN",
+    "MPS-II": "TAN",
+    "WG": "TAN"
+  },
+  "TANG": {
+    "HANYU": "TANG",
+    "MPS-II": "TANG",
+    "WG": "TANG"
+  },
+  "TENG": {
+    "HANYU": "TENG",
+    "MPS-II": "TENG",
+    "WG": "TENG"
+  },
+  "TI": {
+    "HANYU": "TI",
+    "MPS-II": "TI",
+    "WG": "TI"
+  },
+  "TIE": {
+    "HANYU": "TIE",
+    "MPS-II": "TIE",
+    "WG": "TIEH"
+  },
+  "TIAO": {
+    "HANYU": "TIAO",
+    "MPS-II": "TIAU",
+    "WG": "TIAO"
+  },
+  "TIAN": {
+    "HANYU": "TIAN",
+    "MPS-II": "TIAN",
+    "WG": "TIEN"
+  },
+  "TING": {
+    "HANYU": "TING",
+    "MPS-II": "TING",
+    "WG": "TING"
+  },
+  "TU": {
+    "HANYU": "TU",
+    "MPS-II": "TU",
+    "WG": "TU"
+  },
+  "TUO": {
+    "HANYU": "TUO",
+    "MPS-II": "TUO",
+    "WG": "TO"
+  },
+  "TUI": {
+    "HANYU": "TUEI",
+    "MPS-II": "TUEI",
+    "WG": "TUI"
+  },
+  "TUAN": {
+    "HANYU": "TUAN",
+    "MPS-II": "TUAN",
+    "WG": "TUAN"
+  },
+  "TUN": {
+    "HANYU": "TUN",
+    "MPS-II": "TUEN",
+    "WG": "TUN"
+  },
+  "TONG": {
+    "HANYU": "TONG",
+    "MPS-II": "TUNG",
+    "WG": "TUNG"
+  },
+  "NA": {
+    "HANYU": "NA",
+    "MPS-II": "NA",
+    "WG": "NA"
+  },
+  "NE": {
+    "HANYU": "NE",
+    "MPS-II": "NE",
+    "WG": "NE"
+  },
+  "NAI": {
+    "HANYU": "NAI",
+    "MPS-II": "NAI",
+    "WG": "NAI"
+  },
+  "NEI": {
+    "HANYU": "NEI",
+    "MPS-II": "NEI",
+    "WG": "NEI"
+  },
+  "NAO": {
+    "HANYU": "NAO",
+    "MPS-II": "NAU",
+    "WG": "NAO"
+  },
+  "NOU": {
+    "HANYU": "NOU",
+    "MPS-II": "NOU",
+    "WG": "NOU"
+  },
+  "NAN": {
+    "HANYU": "NAN",
+    "MPS-II": "NAN",
+    "WG": "NAN"
+  },
+  "NEN": {
+    "HANYU": "NEN",
+    "MPS-II": "NEN",
+    "WG": "NEN"
+  },
+  "NANG": {
+    "HANYU": "NANG",
+    "MPS-II": "NANG",
+    "WG": "NANG"
+  },
+  "NENG": {
+    "HANYU": "NENG",
+    "MPS-II": "NENG",
+    "WG": "NENG"
+  },
+  "NI": {
+    "HANYU": "NI",
+    "MPS-II": "NI",
+    "WG": "NI"
+  },
+  "NIE": {
+    "HANYU": "NIE",
+    "MPS-II": "NIE",
+    "WG": "NIEH"
+  },
+  "NIAO": {
+    "HANYU": "NIAO",
+    "MPS-II": "NIAU",
+    "WG": "NIAO"
+  },
+  "NIU": {
+    "HANYU": "NIOU",
+    "MPS-II": "NIOU",
+    "WG": "NIU"
+  },
+  "NIAN": {
+    "HANYU": "NIAN",
+    "MPS-II": "NIAN",
+    "WG": "NIEN"
+  },
+  "NIN": {
+    "HANYU": "NIN",
+    "MPS-II": "NIN",
+    "WG": "NIN"
+  },
+  "NIANG": {
+    "HANYU": "NIANG",
+    "MPS-II": "NIANG",
+    "WG": "NIANG"
+  },
+  "NING": {
+    "HANYU": "NING",
+    "MPS-II": "NING",
+    "WG": "NING"
+  },
+  "NU": {
+    "HANYU": "NU",
+    "MPS-II": "NU",
+    "WG": "NU"
+  },
+  "NUO": {
+    "HANYU": "NUO",
+    "MPS-II": "NUO",
+    "WG": "NO"
+  },
+  "NUAN": {
+    "HANYU": "NUAN",
+    "MPS-II": "NUAN",
+    "WG": "NUAN"
+  },
+  "NUN": {
+    "HANYU": "NUN",
+    "MPS-II": "NUEN",
+    "WG": "NUN"
+  },
+  "NONG": {
+    "HANYU": "NONG",
+    "MPS-II": "NUNG",
+    "WG": "NUNG"
+  },
+  "NU": {
+    "HANYU": "NYU",
+    "MPS-II": "NIU",
+    "WG": "NU"
+  },
+  "NUE": {
+    "HANYU": "NYUE",
+    "MPS-II": "NIUE",
+    "WG": "NUEH"
+  },
+  "LA": {
+    "HANYU": "LA",
+    "MPS-II": "LA",
+    "WG": "LA"
+  },
+  "LO": {
+    "HANYU": "LO",
+    "MPS-II": "LO",
+    "WG": "LO"
+  },
+  "LE": {
+    "HANYU": "LE",
+    "MPS-II": "LE",
+    "WG": "LE"
+  },
+  "LAI": {
+    "HANYU": "LAI",
+    "MPS-II": "LAI",
+    "WG": "LAI"
+  },
+  "LEI": {
+    "HANYU": "LEI",
+    "MPS-II": "LEI",
+    "WG": "LEI"
+  },
+  "LAO": {
+    "HANYU": "LAO",
+    "MPS-II": "LAU",
+    "WG": "LAO"
+  },
+  "LOU": {
+    "HANYU": "LOU",
+    "MPS-II": "LOU",
+    "WG": "LOU"
+  },
+  "LAN": {
+    "HANYU": "LAN",
+    "MPS-II": "LAN",
+    "WG": "LAN"
+  },
+  "LANG": {
+    "HANYU": "LANG",
+    "MPS-II": "LANG",
+    "WG": "LANG"
+  },
+  "LENG": {
+    "HANYU": "LENG",
+    "MPS-II": "LENG",
+    "WG": "LENG"
+  },
+  "LI": {
+    "HANYU": "LI",
+    "MPS-II": "LI",
+    "WG": "LI"
+  },
+  "LIA": {
+    "HANYU": "LIA",
+    "MPS-II": "LIA",
+    "WG": "LIA"
+  },
+  "LIE": {
+    "HANYU": "LIE",
+    "MPS-II": "LIE",
+    "WG": "LIEH"
+  },
+  "LIAO": {
+    "HANYU": "LIAO",
+    "MPS-II": "LIAU",
+    "WG": "LIAO"
+  },
+  "LIU": {
+    "HANYU": "LIOU",
+    "MPS-II": "LIOU",
+    "WG": "LIU"
+  },
+  "LIAN": {
+    "HANYU": "LIAN",
+    "MPS-II": "LIAN",
+    "WG": "LIEN"
+  },
+  "LIN": {
+    "HANYU": "LIN",
+    "MPS-II": "LIN",
+    "WG": "LIN"
+  },
+  "LIANG": {
+    "HANYU": "LIANG",
+    "MPS-II": "LIANG",
+    "WG": "LIANG"
+  },
+  "LING": {
+    "HANYU": "LING",
+    "MPS-II": "LING",
+    "WG": "LING"
+  },
+  "LU": {
+    "HANYU": "LU",
+    "MPS-II": "LU",
+    "WG": "LU"
+  },
+  "LUO": {
+    "HANYU": "LUO",
+    "MPS-II": "LUO",
+    "WG": "LO"
+  },
+  "LUAN": {
+    "HANYU": "LUAN",
+    "MPS-II": "LUAN",
+    "WG": "LUAN"
+  },
+  "LUN": {
+    "HANYU": "LUN",
+    "MPS-II": "LUEN",
+    "WG": "LUN"
+  },
+  "LONG": {
+    "HANYU": "LONG",
+    "MPS-II": "LUNG",
+    "WG": "LUNG"
+  },
+  "LU": {
+    "HANYU": "LYU",
+    "MPS-II": "LIU",
+    "WG": "LU"
+  },
+  "LUE": {
+    "HANYU": "LYUE",
+    "MPS-II": "LIUE",
+    "WG": "LUEH"
+  },
+  "LUAN": {
+    "HANYU": "LUAN",
+    "MPS-II": "LIUAN",
+    "WG": "LUAN"
+  },
+  "GA": {
+    "HANYU": "GA",
+    "MPS-II": "GA",
+    "WG": "KA"
+  },
+  "GE": {
+    "HANYU": "GE",
+    "MPS-II": "GE",
+    "WG": "KE"
+  },
+  "GAI": {
+    "HANYU": "GAI",
+    "MPS-II": "GAI",
+    "WG": "KAI"
+  },
+  "GEI": {
+    "HANYU": "GEI",
+    "MPS-II": "GEI",
+    "WG": "KEI"
+  },
+  "GAO": {
+    "HANYU": "GAO",
+    "MPS-II": "GAU",
+    "WG": "KAO"
+  },
+  "GOU": {
+    "HANYU": "GOU",
+    "MPS-II": "GOU",
+    "WG": "KOU"
+  },
+  "GAN": {
+    "HANYU": "GAN",
+    "MPS-II": "GAN",
+    "WG": "KAN"
+  },
+  "GEN": {
+    "HANYU": "GEN",
+    "MPS-II": "GEN",
+    "WG": "KEN"
+  },
+  "GANG": {
+    "HANYU": "GANG",
+    "MPS-II": "GANG",
+    "WG": "KANG"
+  },
+  "GENG": {
+    "HANYU": "GENG",
+    "MPS-II": "GENG",
+    "WG": "KENG"
+  },
+  "GU": {
+    "HANYU": "GU",
+    "MPS-II": "GU",
+    "WG": "KU"
+  },
+  "GUA": {
+    "HANYU": "GUA",
+    "MPS-II": "GUA",
+    "WG": "KUA"
+  },
+  "GUO": {
+    "HANYU": "GUO",
+    "MPS-II": "GUO",
+    "WG": "KUO"
+  },
+  "GUAI": {
+    "HANYU": "GUAI",
+    "MPS-II": "GUAI",
+    "WG": "KUAI"
+  },
+  "GUI": {
+    "HANYU": "GUEI",
+    "MPS-II": "GUEI",
+    "WG": "KUEI"
+  },
+  "GUAN": {
+    "HANYU": "GUAN",
+    "MPS-II": "GUAN",
+    "WG": "KUAN"
+  },
+  "GUN": {
+    "HANYU": "GUN",
+    "MPS-II": "GUEN",
+    "WG": "KUN"
+  },
+  "GUANG": {
+    "HANYU": "GUANG",
+    "MPS-II": "GUANG",
+    "WG": "KUANG"
+  },
+  "GONG": {
+    "HANYU": "GONG",
+    "MPS-II": "GUNG",
+    "WG": "KUNG"
+  },
+  "KA": {
+    "HANYU": "KA",
+    "MPS-II": "KA",
+    "WG": "KA"
+  },
+  "KE": {
+    "HANYU": "KE",
+    "MPS-II": "KE",
+    "WG": "KE"
+  },
+  "KAI": {
+    "HANYU": "KAI",
+    "MPS-II": "KAI",
+    "WG": "KAI"
+  },
+  "KAO": {
+    "HANYU": "KAO",
+    "MPS-II": "KAU",
+    "WG": "KAO"
+  },
+  "KOU": {
+    "HANYU": "KOU",
+    "MPS-II": "KOU",
+    "WG": "KOU"
+  },
+  "KAN": {
+    "HANYU": "KAN",
+    "MPS-II": "KAN",
+    "WG": "KAN"
+  },
+  "KEN": {
+    "HANYU": "KEN",
+    "MPS-II": "KEN",
+    "WG": "KEN"
+  },
+  "KANG": {
+    "HANYU": "KANG",
+    "MPS-II": "KANG",
+    "WG": "KANG"
+  },
+  "KENG": {
+    "HANYU": "KENG",
+    "MPS-II": "KENG",
+    "WG": "KENG"
+  },
+  "KU": {
+    "HANYU": "KU",
+    "MPS-II": "KU",
+    "WG": "KU"
+  },
+  "KUA": {
+    "HANYU": "KUA",
+    "MPS-II": "KUA",
+    "WG": "KUA"
+  },
+  "KUO": {
+    "HANYU": "KUO",
+    "MPS-II": "KUO",
+    "WG": "KUO"
+  },
+  "KUAI": {
+    "HANYU": "KUAI",
+    "MPS-II": "KUAI",
+    "WG": "KUAI"
+  },
+  "KUI": {
+    "HANYU": "KUEI",
+    "MPS-II": "KUEI",
+    "WG": "KUEI"
+  },
+  "KUAN": {
+    "HANYU": "KUAN",
+    "MPS-II": "KUAN",
+    "WG": "KUAN"
+  },
+  "KUN": {
+    "HANYU": "KUN",
+    "MPS-II": "KUEN",
+    "WG": "KUN"
+  },
+  "KUANG": {
+    "HANYU": "KUANG",
+    "MPS-II": "KUANG",
+    "WG": "KUANG"
+  },
+  "KONG": {
+    "HANYU": "KONG",
+    "MPS-II": "KUNG",
+    "WG": "KUNG"
+  },
+  "HA": {
+    "HANYU": "HA",
+    "MPS-II": "HA",
+    "WG": "HA"
+  },
+  "HE": {
+    "HANYU": "HE",
+    "MPS-II": "HE",
+    "WG": "HE"
+  },
+  "HAI": {
+    "HANYU": "HAI",
+    "MPS-II": "HAI",
+    "WG": "HAI"
+  },
+  "HEI": {
+    "HANYU": "HEI",
+    "MPS-II": "HEI",
+    "WG": "HEI"
+  },
+  "HAO": {
+    "HANYU": "HAO",
+    "MPS-II": "HAU",
+    "WG": "HAO"
+  },
+  "HOU": {
+    "HANYU": "HOU",
+    "MPS-II": "HOU",
+    "WG": "HOU"
+  },
+  "HAN": {
+    "HANYU": "HAN",
+    "MPS-II": "HAN",
+    "WG": "HAN"
+  },
+  "HEN": {
+    "HANYU": "HEN",
+    "MPS-II": "HEN",
+    "WG": "HEN"
+  },
+  "HANG": {
+    "HANYU": "HANG",
+    "MPS-II": "HANG",
+    "WG": "HANG"
+  },
+  "HENG": {
+    "HANYU": "HENG",
+    "MPS-II": "HENG",
+    "WG": "HENG"
+  },
+  "HU": {
+    "HANYU": "HU",
+    "MPS-II": "HU",
+    "WG": "HU"
+  },
+  "HUA": {
+    "HANYU": "HUA",
+    "MPS-II": "HUA",
+    "WG": "HUA"
+  },
+  "HUO": {
+    "HANYU": "HUO",
+    "MPS-II": "HUO",
+    "WG": "HUO"
+  },
+  "HUAI": {
+    "HANYU": "HUAI",
+    "MPS-II": "HUAI",
+    "WG": "HUAI"
+  },
+  "HUI": {
+    "HANYU": "HUEI",
+    "MPS-II": "HUEI",
+    "WG": "HUI"
+  },
+  "HUAN": {
+    "HANYU": "HUAN",
+    "MPS-II": "HUAN",
+    "WG": "HUAN"
+  },
+  "HUN": {
+    "HANYU": "HUN",
+    "MPS-II": "HUEN",
+    "WG": "HUN"
+  },
+  "HUANG": {
+    "HANYU": "HUANG",
+    "MPS-II": "HUANG",
+    "WG": "HUANG"
+  },
+  "HONG": {
+    "HANYU": "HONG",
+    "MPS-II": "HUNG",
+    "WG": "HUNG"
+  },
+  "JI": {
+    "HANYU": "JI",
+    "MPS-II": "JI",
+    "WG": "CHI"
+  },
+  "JIA": {
+    "HANYU": "JIA",
+    "MPS-II": "JIA",
+    "WG": "CHIA"
+  },
+  "JIE": {
+    "HANYU": "JIE",
+    "MPS-II": "JIE",
+    "WG": "CHIEH"
+  },
+  "JIAO": {
+    "HANYU": "JIAO",
+    "MPS-II": "JIAU",
+    "WG": "CHIAO"
+  },
+  "JIU": {
+    "HANYU": "JIOU",
+    "MPS-II": "JIOU",
+    "WG": "CHIU"
+  },
+  "JIAN": {
+    "HANYU": "JIAN",
+    "MPS-II": "JIAN",
+    "WG": "CHIEN"
+  },
+  "JIN": {
+    "HANYU": "JIN",
+    "MPS-II": "JIN",
+    "WG": "CHIN"
+  },
+  "JIANG": {
+    "HANYU": "JIANG",
+    "MPS-II": "JIANG",
+    "WG": "CHIANG"
+  },
+  "JING": {
+    "HANYU": "JING",
+    "MPS-II": "JING",
+    "WG": "CHING"
+  },
+  "JU": {
+    "HANYU": "JYU",
+    "MPS-II": "JIU",
+    "WG": "CHU"
+  },
+  "JUE": {
+    "HANYU": "JYUE",
+    "MPS-II": "JIUE",
+    "WG": "CHUEH"
+  },
+  "JUAN": {
+    "HANYU": "JYUAN",
+    "MPS-II": "JIUAN",
+    "WG": "CHUAN"
+  },
+  "JUN": {
+    "HANYU": "JYUN",
+    "MPS-II": "JIUN",
+    "WG": "CHUN"
+  },
+  "JIONG": {
+    "HANYU": "JYONG",
+    "MPS-II": "JIUNG",
+    "WG": "CHIUNG"
+  },
+  "QI": {
+    "HANYU": "CI",
+    "MPS-II": "CHI",
+    "WG": "CHI"
+  },
+  "QIA": {
+    "HANYU": "CIA",
+    "MPS-II": "CHIA",
+    "WG": "CHIA"
+  },
+  "QIE": {
+    "HANYU": "CIE",
+    "MPS-II": "CHIE",
+    "WG": "CHIEH"
+  },
+  "QIAO": {
+    "HANYU": "CIAO",
+    "MPS-II": "CHIAU",
+    "WG": "CHIAO"
+  },
+  "QIU": {
+    "HANYU": "CIOU",
+    "MPS-II": "CHIOU",
+    "WG": "CHIU"
+  },
+  "QIAN": {
+    "HANYU": "CIAN",
+    "MPS-II": "CHIAN",
+    "WG": "CHIEN"
+  },
+  "QIN": {
+    "HANYU": "CIN",
+    "MPS-II": "CHIN",
+    "WG": "CHIN"
+  },
+  "QIANG": {
+    "HANYU": "CIANG",
+    "MPS-II": "CHIANG",
+    "WG": "CHIANG"
+  },
+  "QING": {
+    "HANYU": "CING",
+    "MPS-II": "CHING",
+    "WG": "CHING"
+  },
+  "QU": {
+    "HANYU": "CYU",
+    "MPS-II": "CHIU",
+    "WG": "CHU"
+  },
+  "QUE": {
+    "HANYU": "CYUE",
+    "MPS-II": "CHIUE",
+    "WG": "CHUEH"
+  },
+  "QUAN": {
+    "HANYU": "CYUAN",
+    "MPS-II": "CHIUAN",
+    "WG": "CHUAN"
+  },
+  "QUN": {
+    "HANYU": "CYUN",
+    "MPS-II": "CHIUN",
+    "WG": "CHUN"
+  },
+  "QIONG": {
+    "HANYU": "CYONG",
+    "MPS-II": "CHIUNG",
+    "WG": "CHIUNG"
+  },
+  "XI": {
+    "HANYU": "SI",
+    "MPS-II": "SHI",
+    "WG": "HSI"
+  },
+  "XIA": {
+    "HANYU": "SIA",
+    "MPS-II": "SHIA",
+    "WG": "HSIA"
+  },
+  "XIE": {
+    "HANYU": "SIE",
+    "MPS-II": "SHIE",
+    "WG": "HSIEH"
+  },
+  "XIAO": {
+    "HANYU": "SIAO",
+    "MPS-II": "SHIAU",
+    "WG": "HSIAO"
+  },
+  "XIU": {
+    "HANYU": "SIOU",
+    "MPS-II": "SHIOU",
+    "WG": "HSIU"
+  },
+  "XIAN": {
+    "HANYU": "SIAN",
+    "MPS-II": "SHIAN",
+    "WG": "HSIEN"
+  },
+  "XIN": {
+    "HANYU": "SIN",
+    "MPS-II": "SHIN",
+    "WG": "HSIN"
+  },
+  "XIANG": {
+    "HANYU": "SIANG",
+    "MPS-II": "SHIANG",
+    "WG": "HSIANG"
+  },
+  "XING": {
+    "HANYU": "SING",
+    "MPS-II": "SHING",
+    "WG": "HSING"
+  },
+  "XU": {
+    "HANYU": "SYU",
+    "MPS-II": "SHIU",
+    "WG": "HSU"
+  },
+  "XUE": {
+    "HANYU": "SYUE",
+    "MPS-II": "SHIUE",
+    "WG": "HSUEH"
+  },
+  "XUAN": {
+    "HANYU": "SYUAN",
+    "MPS-II": "SHIUAN",
+    "WG": "HSUAN"
+  },
+  "XUN": {
+    "HANYU": "SYUN",
+    "MPS-II": "SHIUN",
+    "WG": "HSUN"
+  },
+  "XIONG": {
+    "HANYU": "SYONG",
+    "MPS-II": "SHIUNG",
+    "WG": "HSIUNG"
+  },
+  "ZHI": {
+    "HANYU": "JHIH",
+    "MPS-II": "JR",
+    "WG": "CHIH"
+  },
+  "ZHA": {
+    "HANYU": "JHA",
+    "MPS-II": "JA",
+    "WG": "CHA"
+  },
+  "ZHE": {
+    "HANYU": "JHE",
+    "MPS-II": "JE",
+    "WG": "CHE"
+  },
+  "ZHAI": {
+    "HANYU": "JHAI",
+    "MPS-II": "JAI",
+    "WG": "CHAI"
+  },
+  "ZHEI": {
+    "HANYU": "ZHEI",
+    "MPS-II": "JEI",
+    "WG": "CHEI"
+  },
+  "ZHAO": {
+    "HANYU": "JHAO",
+    "MPS-II": "JAU",
+    "WG": "CHAO"
+  },
+  "ZHOU": {
+    "HANYU": "JHOU",
+    "MPS-II": "JOU",
+    "WG": "CHOU"
+  },
+  "ZHAN": {
+    "HANYU": "JHAN",
+    "MPS-II": "JAN",
+    "WG": "CHAN"
+  },
+  "ZHEN": {
+    "HANYU": "JHEN",
+    "MPS-II": "JEN",
+    "WG": "CHEN"
+  },
+  "ZHANG": {
+    "HANYU": "JHANG",
+    "MPS-II": "JANG",
+    "WG": "CHANG"
+  },
+  "ZHENG": {
+    "HANYU": "JHENG",
+    "MPS-II": "JENG",
+    "WG": "CHENG"
+  },
+  "ZHU": {
+    "HANYU": "JHU",
+    "MPS-II": "JU",
+    "WG": "CHU"
+  },
+  "ZHUA": {
+    "HANYU": "JHUA",
+    "MPS-II": "JUA",
+    "WG": "CHUA"
+  },
+  "ZHUO": {
+    "HANYU": "JHUO",
+    "MPS-II": "JUO",
+    "WG": "CHO"
+  },
+  "ZHUAI": {
+    "HANYU": "JHUAI",
+    "MPS-II": "JUAI",
+    "WG": "CHUAI"
+  },
+  "ZHUI": {
+    "HANYU": "JHUEI",
+    "MPS-II": "JUEI",
+    "WG": "CHUI"
+  },
+  "ZHUAN": {
+    "HANYU": "JHUAN",
+    "MPS-II": "JUAN",
+    "WG": "CHUAN"
+  },
+  "ZHUN": {
+    "HANYU": "JHUN",
+    "MPS-II": "JUEN",
+    "WG": "CHUN"
+  },
+  "ZHUANG": {
+    "HANYU": "JHUANG",
+    "MPS-II": "JUANG",
+    "WG": "CHUANG"
+  },
+  "ZHONG": {
+    "HANYU": "JHONG",
+    "MPS-II": "JUNG",
+    "WG": "CHUNG"
+  },
+  "CHI": {
+    "HANYU": "CHIH",
+    "MPS-II": "CHR",
+    "WG": "CHIH"
+  },
+  "CHA": {
+    "HANYU": "CHA",
+    "MPS-II": "CHA",
+    "WG": "CHA"
+  },
+  "CHE": {
+    "HANYU": "CHE",
+    "MPS-II": "CHE",
+    "WG": "CHE"
+  },
+  "CHAI": {
+    "HANYU": "CHAI",
+    "MPS-II": "CHAI",
+    "WG": "CHAI"
+  },
+  "CHAO": {
+    "HANYU": "CHAO",
+    "MPS-II": "CHAU",
+    "WG": "CHAO"
+  },
+  "CHOU": {
+    "HANYU": "CHOU",
+    "MPS-II": "CHOU",
+    "WG": "CHOU"
+  },
+  "CHAN": {
+    "HANYU": "CHAN",
+    "MPS-II": "CHAN",
+    "WG": "CHAN"
+  },
+  "CHEN": {
+    "HANYU": "CHEN",
+    "MPS-II": "CHEN",
+    "WG": "CHEN"
+  },
+  "CHANG": {
+    "HANYU": "CHANG",
+    "MPS-II": "CHANG",
+    "WG": "CHANG"
+  },
+  "CHENG": {
+    "HANYU": "CHENG",
+    "MPS-II": "CHENG",
+    "WG": "CHENG"
+  },
+  "CHU": {
+    "HANYU": "CHU",
+    "MPS-II": "CHU",
+    "WG": "CHU"
+  },
+  "CHUA": {
+    "HANYU": "CHUA",
+    "MPS-II": "CHUA",
+    "WG": "CHUA"
+  },
+  "CHUO": {
+    "HANYU": "CHUO",
+    "MPS-II": "CHUO",
+    "WG": "CHO"
+  },
+  "CHUAI": {
+    "HANYU": "CHUAI",
+    "MPS-II": "CHUAI",
+    "WG": "CHUAI"
+  },
+  "CHUI": {
+    "HANYU": "CHUEI",
+    "MPS-II": "CHUEI",
+    "WG": "CHUI"
+  },
+  "CHUAN": {
+    "HANYU": "CHUAN",
+    "MPS-II": "CHUAN",
+    "WG": "CHUAN"
+  },
+  "CHUN": {
+    "HANYU": "CHUN",
+    "MPS-II": "CHUEN",
+    "WG": "CHUN"
+  },
+  "CHUANG": {
+    "HANYU": "CHUANG",
+    "MPS-II": "CHUANG",
+    "WG": "CHUANG"
+  },
+  "CHONG": {
+    "HANYU": "CHONG",
+    "MPS-II": "CHUNG",
+    "WG": "CHUNG"
+  },
+  "SHI": {
+    "HANYU": "SHIH",
+    "MPS-II": "SHR",
+    "WG": "SHIH"
+  },
+  "SHA": {
+    "HANYU": "SHA",
+    "MPS-II": "SHA",
+    "WG": "SHA"
+  },
+  "SHE": {
+    "HANYU": "SHE",
+    "MPS-II": "SHE",
+    "WG": "SHE"
+  },
+  "SHAI": {
+    "HANYU": "SHAI",
+    "MPS-II": "SHAI",
+    "WG": "SHAI"
+  },
+  "SHEI": {
+    "HANYU": "SHEI",
+    "MPS-II": "SHEI",
+    "WG": "SHEI"
+  },
+  "SHAO": {
+    "HANYU": "SHAO",
+    "MPS-II": "SHAU",
+    "WG": "SHAO"
+  },
+  "SHOU": {
+    "HANYU": "SHOU",
+    "MPS-II": "SHOU",
+    "WG": "SHOU"
+  },
+  "SHAN": {
+    "HANYU": "SHAN",
+    "MPS-II": "SHAN",
+    "WG": "SHAN"
+  },
+  "SHEN": {
+    "HANYU": "SHEN",
+    "MPS-II": "SHEN",
+    "WG": "SHEN"
+  },
+  "SHANG": {
+    "HANYU": "SHANG",
+    "MPS-II": "SHANG",
+    "WG": "SHANG"
+  },
+  "SHENG": {
+    "HANYU": "SHENG",
+    "MPS-II": "SHENG",
+    "WG": "SHENG"
+  },
+  "SHU": {
+    "HANYU": "SHU",
+    "MPS-II": "SHU",
+    "WG": "SHU"
+  },
+  "SHUA": {
+    "HANYU": "SHUA",
+    "MPS-II": "SHUA",
+    "WG": "SHUA"
+  },
+  "SHUO": {
+    "HANYU": "SHUO",
+    "MPS-II": "SHUO",
+    "WG": "SHUO"
+  },
+  "SHUAI": {
+    "HANYU": "SHUAI",
+    "MPS-II": "SHUAI",
+    "WG": "SHUAI"
+  },
+  "SHUI": {
+    "HANYU": "SHUEI",
+    "MPS-II": "SHUEI",
+    "WG": "SHUI"
+  },
+  "SHUAN": {
+    "HANYU": "SHUAN",
+    "MPS-II": "SHUAN",
+    "WG": "SHUAN"
+  },
+  "SHUN": {
+    "HANYU": "SHUN",
+    "MPS-II": "SHUEN",
+    "WG": "SHUN"
+  },
+  "SHUANG": {
+    "HANYU": "SHUANG",
+    "MPS-II": "SHUANG",
+    "WG": "SHUANG"
+  },
+  "RI": {
+    "HANYU": "RIH",
+    "MPS-II": "R",
+    "WG": "JIH"
+  },
+  "RE": {
+    "HANYU": "RE",
+    "MPS-II": "RE",
+    "WG": "JE"
+  },
+  "RAO": {
+    "HANYU": "RAO",
+    "MPS-II": "RAU",
+    "WG": "JAO"
+  },
+  "ROU": {
+    "HANYU": "ROU",
+    "MPS-II": "ROU",
+    "WG": "JOU"
+  },
+  "RAN": {
+    "HANYU": "RAN",
+    "MPS-II": "RAN",
+    "WG": "JAN"
+  },
+  "REN": {
+    "HANYU": "REN",
+    "MPS-II": "REN",
+    "WG": "JEN"
+  },
+  "RANG": {
+    "HANYU": "RANG",
+    "MPS-II": "RANG",
+    "WG": "JANG"
+  },
+  "RENG": {
+    "HANYU": "RENG",
+    "MPS-II": "RENG",
+    "WG": "JENG"
+  },
+  "RU": {
+    "HANYU": "RU",
+    "MPS-II": "RU",
+    "WG": "JU"
+  },
+  "RUO": {
+    "HANYU": "RUO",
+    "MPS-II": "RUO",
+    "WG": "JO"
+  },
+  "RUI": {
+    "HANYU": "RUEI",
+    "MPS-II": "RUEI",
+    "WG": "JUI"
+  },
+  "RUAN": {
+    "HANYU": "RUAN",
+    "MPS-II": "RUAN",
+    "WG": "JUAN"
+  },
+  "RUN": {
+    "HANYU": "RUN",
+    "MPS-II": "RUEN",
+    "WG": "JUN"
+  },
+  "RONG": {
+    "HANYU": "RONG",
+    "MPS-II": "RUNG",
+    "WG": "JUNG"
+  },
+  "ZI": {
+    "HANYU": "ZIH",
+    "MPS-II": "TZ",
+    "WG": "TZU"
+  },
+  "ZA": {
+    "HANYU": "ZA",
+    "MPS-II": "TZA",
+    "WG": "TSA"
+  },
+  "ZE": {
+    "HANYU": "ZE",
+    "MPS-II": "TZE",
+    "WG": "TSE"
+  },
+  "ZAI": {
+    "HANYU": "ZAI",
+    "MPS-II": "TZAI",
+    "WG": "TSAI"
+  },
+  "ZEI": {
+    "HANYU": "ZEI",
+    "MPS-II": "TZEI",
+    "WG": "TSEI"
+  },
+  "ZAO": {
+    "HANYU": "ZAO",
+    "MPS-II": "TZAU",
+    "WG": "TSAO"
+  },
+  "ZOU": {
+    "HANYU": "ZOU",
+    "MPS-II": "TZOU",
+    "WG": "TSOU"
+  },
+  "ZAN": {
+    "HANYU": "ZAN",
+    "MPS-II": "TZAN",
+    "WG": "TSAN"
+  },
+  "ZEN": {
+    "HANYU": "ZEN",
+    "MPS-II": "TZEN",
+    "WG": "TSEN"
+  },
+  "ZANG": {
+    "HANYU": "ZANG",
+    "MPS-II": "TZANG",
+    "WG": "TSANG"
+  },
+  "ZENG": {
+    "HANYU": "ZENG",
+    "MPS-II": "TZENG",
+    "WG": "TSENG"
+  },
+  "ZU": {
+    "HANYU": "ZU",
+    "MPS-II": "TZU",
+    "WG": "TSU"
+  },
+  "ZUO": {
+    "HANYU": "ZUO",
+    "MPS-II": "TZUO",
+    "WG": "TSO"
+  },
+  "ZUI": {
+    "HANYU": "ZUEI",
+    "MPS-II": "TZUEI",
+    "WG": "TSUI"
+  },
+  "ZUAN": {
+    "HANYU": "ZUAN",
+    "MPS-II": "TZUAN",
+    "WG": "TSUAN"
+  },
+  "ZUN": {
+    "HANYU": "ZUN",
+    "MPS-II": "TZUEN",
+    "WG": "TSUN"
+  },
+  "ZONG": {
+    "HANYU": "ZONG",
+    "MPS-II": "TZUNG",
+    "WG": "TSUNG"
+  },
+  "CI": {
+    "HANYU": "CIH",
+    "MPS-II": "TSZ",
+    "WG": "TZU"
+  },
+  "CA": {
+    "HANYU": "CA",
+    "MPS-II": "TSA",
+    "WG": "TSA"
+  },
+  "CE": {
+    "HANYU": "CE",
+    "MPS-II": "TSE",
+    "WG": "TSE"
+  },
+  "CAI": {
+    "HANYU": "CAI",
+    "MPS-II": "TSAI",
+    "WG": "TSAI"
+  },
+  "CAO": {
+    "HANYU": "CAO",
+    "MPS-II": "TSAU",
+    "WG": "TSAO"
+  },
+  "COU": {
+    "HANYU": "COU",
+    "MPS-II": "TSOU",
+    "WG": "TSOU"
+  },
+  "CAN": {
+    "HANYU": "CAN",
+    "MPS-II": "TSAN",
+    "WG": "TSAN"
+  },
+  "CEN": {
+    "HANYU": "CEN",
+    "MPS-II": "TSEN",
+    "WG": "TSEN"
+  },
+  "CANG": {
+    "HANYU": "CANG",
+    "MPS-II": "TSANG",
+    "WG": "TSANG"
+  },
+  "CENG": {
+    "HANYU": "CENG",
+    "MPS-II": "TSENG",
+    "WG": "TSENG"
+  },
+  "CU": {
+    "HANYU": "CU",
+    "MPS-II": "TSU",
+    "WG": "TSU"
+  },
+  "CUO": {
+    "HANYU": "CUO",
+    "MPS-II": "TSUO",
+    "WG": "TSO"
+  },
+  "CUI": {
+    "HANYU": "CUEI",
+    "MPS-II": "TSUEI",
+    "WG": "TSUI"
+  },
+  "CUAN": {
+    "HANYU": "CUAN",
+    "MPS-II": "TSUAN",
+    "WG": "TSUAN"
+  },
+  "CUN": {
+    "HANYU": "CUN",
+    "MPS-II": "TSUEN",
+    "WG": "TSUN"
+  },
+  "CONG": {
+    "HANYU": "CONG",
+    "MPS-II": "TSUNG",
+    "WG": "TSUNG"
+  },
+  "SI": {
+    "HANYU": "SIH",
+    "MPS-II": "SZ",
+    "WG": "SSU"
+  },
+  "SA": {
+    "HANYU": "SA",
+    "MPS-II": "SA",
+    "WG": "SA"
+  },
+  "SE": {
+    "HANYU": "SE",
+    "MPS-II": "SE",
+    "WG": "SE"
+  },
+  "SAI": {
+    "HANYU": "SAI",
+    "MPS-II": "SAI",
+    "WG": "SAI"
+  },
+  "SAO": {
+    "HANYU": "SAO",
+    "MPS-II": "SAU",
+    "WG": "SAO"
+  },
+  "SOU": {
+    "HANYU": "SOU",
+    "MPS-II": "SOU",
+    "WG": "SOU"
+  },
+  "SAN": {
+    "HANYU": "SAN",
+    "MPS-II": "SAN",
+    "WG": "SAN"
+  },
+  "SEN": {
+    "HANYU": "SEN",
+    "MPS-II": "SEN",
+    "WG": "SEN"
+  },
+  "SANG": {
+    "HANYU": "SANG",
+    "MPS-II": "SANG",
+    "WG": "SANG"
+  },
+  "SENG": {
+    "HANYU": "SENG",
+    "MPS-II": "SENG",
+    "WG": "SENG"
+  },
+  "SU": {
+    "HANYU": "SU",
+    "MPS-II": "SU",
+    "WG": "SU"
+  },
+  "SUO": {
+    "HANYU": "SUO",
+    "MPS-II": "SUO",
+    "WG": "SO"
+  },
+  "SUI": {
+    "HANYU": "SUEI",
+    "MPS-II": "SUEI",
+    "WG": "SUI"
+  },
+  "SUAN": {
+    "HANYU": "SUAN",
+    "MPS-II": "SUAN",
+    "WG": "SUAN"
+  },
+  "SUN": {
+    "HANYU": "SUN",
+    "MPS-II": "SUEN",
+    "WG": "SUN"
+  },
+  "SONG": {
+    "HANYU": "SONG",
+    "MPS-II": "SUNG",
+    "WG": "SUNG"
+  },
+  "YI": {
+    "HANYU": "YI",
+    "MPS-II": "YI",
+    "WG": "YI"
+  },
+  "YA": {
+    "HANYU": "YA",
+    "MPS-II": "YA",
+    "WG": "YA"
+  },
+  "YO": {
+    "HANYU": "YO",
+    "MPS-II": "YO",
+    "WG": "YO"
+  },
+  "YE": {
+    "HANYU": "YE",
+    "MPS-II": "YE",
+    "WG": "YEH"
+  },
+  "YAI": {
+    "HANYU": "YAI",
+    "MPS-II": "YAI",
+    "WG": "YAI"
+  },
+  "YAO": {
+    "HANYU": "YAO",
+    "MPS-II": "YAU",
+    "WG": "YAO"
+  },
+  "YOU": {
+    "HANYU": "YOU",
+    "MPS-II": "YOU",
+    "WG": "YU"
+  },
+  "YAN": {
+    "HANYU": "YAN",
+    "MPS-II": "YAN",
+    "WG": "YEN"
+  },
+  "YIN": {
+    "HANYU": "YIN",
+    "MPS-II": "YIN",
+    "WG": "YIN"
+  },
+  "YANG": {
+    "HANYU": "YANG",
+    "MPS-II": "YANG",
+    "WG": "YANG"
+  },
+  "YING": {
+    "HANYU": "YING",
+    "MPS-II": "YING",
+    "WG": "YING"
+  },
+  "WU": {
+    "HANYU": "WU",
+    "MPS-II": "WU",
+    "WG": "WU"
+  },
+  "WA": {
+    "HANYU": "WA",
+    "MPS-II": "WA",
+    "WG": "WA"
+  },
+  "WO": {
+    "HANYU": "WO",
+    "MPS-II": "WO",
+    "WG": "WO"
+  },
+  "WAI": {
+    "HANYU": "WAI",
+    "MPS-II": "WAI",
+    "WG": "WAI"
+  },
+  "WEI": {
+    "HANYU": "WEI",
+    "MPS-II": "WEI",
+    "WG": "WEI"
+  },
+  "WAN": {
+    "HANYU": "WAN",
+    "MPS-II": "WAN",
+    "WG": "WAN"
+  },
+  "WEN": {
+    "HANYU": "WUN",
+    "MPS-II": "WEN",
+    "WG": "WEN"
+  },
+  "WANG": {
+    "HANYU": "WANG",
+    "MPS-II": "WANG",
+    "WG": "WANG"
+  },
+  "WENG": {
+    "HANYU": "WONG",
+    "MPS-II": "WENG",
+    "WG": "WENG"
+  },
+  "YU": {
+    "HANYU": "YU",
+    "MPS-II": "YU",
+    "WG": "YU"
+  },
+  "YUE": {
+    "HANYU": "YUE",
+    "MPS-II": "YUE",
+    "WG": "YUEH"
+  },
+  "YUAN": {
+    "HANYU": "YUAN",
+    "MPS-II": "YUAN",
+    "WG": "YUAN"
+  },
+  "YUN": {
+    "HANYU": "YUN",
+    "MPS-II": "YUN",
+    "WG": "YUN"
+  },
+  "YONG": {
+    "HANYU": "YONG",
+    "MPS-II": "YUNG",
+    "WG": "YUNG"
+  },
+  "A": {
+    "HANYU": "A",
+    "MPS-II": "A",
+    "WG": "A"
+  },
+  "O": {
+    "HANYU": "O",
+    "MPS-II": "O",
+    "WG": "O"
+  },
+  "E": {
+    "HANYU": "E",
+    "MPS-II": "E",
+    "WG": "E"
+  },
+  "AI": {
+    "HANYU": "AI",
+    "MPS-II": "AI",
+    "WG": "AI"
+  },
+  "EI": {
+    "HANYU": "EI",
+    "MPS-II": "EI",
+    "WG": "EI"
+  },
+  "AO": {
+    "HANYU": "AO",
+    "MPS-II": "AU",
+    "WG": "AO"
+  },
+  "OU": {
+    "HANYU": "OU",
+    "MPS-II": "OU",
+    "WG": "OU"
+  },
+  "AN": {
+    "HANYU": "AN",
+    "MPS-II": "AN",
+    "WG": "AN"
+  },
+  "EN": {
+    "HANYU": "EN",
+    "MPS-II": "EN",
+    "WG": "EN"
+  },
+  "ANG": {
+    "HANYU": "ANG",
+    "MPS-II": "ANG",
+    "WG": "ANG"
+  },
+  "ER": {
+    "HANYU": "ER",
+    "MPS-II": "ER",
+    "WG": "ERH"
+  }
+}
