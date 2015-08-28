@@ -1,6 +1,6 @@
 {
   "name": "romanize-names",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Romanizing Chinese names.",
   "main": "index.js",
   "scripts": {
