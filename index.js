@@ -22,7 +22,9 @@ module.exports = function (name, system) {
   return formatName(result)
 }
 
-// turning ['a', 'b', 'c'] into 'B-C A' or ['a', 'b'] into 'B A'
+// ['a', 'b'] -> 'b a'
+// ['a', 'b', 'c'] -> 'b-c a'
+// ['a', 'b', 'c', 'd'] -> 'c-d a b'
 function formatName (arr) {
   if (arr.length === 2) {
     return arr.join(' ')
