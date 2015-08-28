@@ -25,14 +25,14 @@ romanize(name_in_zhTW, system)
 ## Examples
 
 ```javascript
-console.log(romanize('蔡英文'))
-> Ying-Wen Tsai
+console.log(romanize('張懸'))
+> Hsuan Chang
 
-console.log(romanize('蔡英文', 'MPS-II'))
-> Ying-Wen Tsai
+console.log(romanize('張懸', 'MPS-II'))
+> Shiuan Jang
 
-console.log(romanize('蔡英文', 'HANYU'))
-> Ying-Wun Cai
+console.log(romanize('張懸', 'HANYU'))
+> Syuan Jhang
 ```
 
 ```javascript
