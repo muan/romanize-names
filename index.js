@@ -36,6 +36,9 @@ function formatName (arr) {
 }
 
 function processString (str, system) {
+  if (!str) {
+    throw new Error('Input contains non-Chinese characters');
+  }
   // romanization system
   str = romanizationSys[removeDiacritics(str).toUpperCase()][system]
 
