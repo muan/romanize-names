@@ -6,7 +6,7 @@ var removeDiacritics = require('diacritics').remove
 module.exports = function (name, system) {
   system = system || 'WG'
 
-  var chars = name.split('')
+  var chars = name.replace(/\s/g, '').split('')
   var surnameLength = chars.length > 3 ? 2 : 1
 
   var result = chars.map(function (word, i) {
@@ -37,8 +37,9 @@ function formatName (arr) {
 
 function processString (str, system) {
   if (!str) {
-    throw new Error('Input contains non-Chinese characters');
+    throw new Error('Input contains non-Chinese characters')
   }
+
   // romanization system
   str = romanizationSys[removeDiacritics(str).toUpperCase()][system]
 
