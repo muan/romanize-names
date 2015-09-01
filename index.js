@@ -4,7 +4,7 @@ var romanizationSys = require('./romanization-pairs.json')
 var removeDiacritics = require('diacritics').remove
 
 module.exports = function (name, system) {
-  system = system || 'WG'
+  system = system || 'WG';
 
   var chars = name.split('')
   var surnameLength = chars.length > 3 ? 2 : 1
