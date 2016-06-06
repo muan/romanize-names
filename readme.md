@@ -46,13 +46,13 @@ console.log(romanize('秋木安', 'HANYU'))
 
 ```javascript
 console.log(romanize('范姜峻宏'))
-> Chun-Hung Fan Chiang
+> Chun-Hung Fan-Chiang
 
 console.log(romanize('范姜峻宏', 'MPS-II'))
-> Jiun-Hung Fan Jiang
+> Jiun-Hung Fan-Jiang
 
 console.log(romanize('范姜峻宏', 'HANYU'))
-> Jyun-Hong Fan Jiang
+> Jyun-Hong Fan-Jiang
 ```
 
 ## Data Sources

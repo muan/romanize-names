@@ -25,7 +25,7 @@ test('3-char name', function (t) {
 })
 
 test('4-char name', function (t) {
-  var results = ['Chun-Hung Fan Chiang', 'Jiun-Hung Fan Jiang', 'Jyun-Hong Fan Jiang']
+  var results = ['Chun-Hung Fan-Chiang', 'Jiun-Hung Fan-Jiang', 'Jyun-Hong Fan-Jiang']
 
   systems.forEach(function (sys, i) {
     var name = romanize('范姜峻宏', sys)
