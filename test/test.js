@@ -1,9 +1,9 @@
 var romanize = require('../index.js')
 var test = require('tape')
-var systems = ['WG', 'MPS-II', 'HANYU']
+var systems = ['WG', 'MPS-II', 'TONGYONG', 'HANYU']
 
 test('2-char name', function (t) {
-  var results = ['Hsuan Chang', 'Shiuan Jang', 'Syuan Jhang']
+  var results = ['Hsuan Chang', 'Shiuan Jang', 'Syuan Jhang', 'Xuan Zhang']
 
   systems.forEach(function (sys, i) {
     var name = romanize('張懸', sys)
@@ -14,7 +14,7 @@ test('2-char name', function (t) {
 })
 
 test('3-char name', function (t) {
-  var results = ['Mu-An Chiu', 'Mu-An Chiou', 'Mu-An Ciou']
+  var results = ['Mu-An Chiu', 'Mu-An Chiou', 'Mu-An Ciou', 'Mu-An Qiu']
 
   systems.forEach(function (sys, i) {
     var name = romanize('秋木安', sys)
@@ -25,7 +25,7 @@ test('3-char name', function (t) {
 })
 
 test('4-char name', function (t) {
-  var results = ['Chun-Hung Fan-Chiang', 'Jiun-Hung Fan-Jiang', 'Jyun-Hong Fan-Jiang']
+  var results = ['Chun-Hung Fan-Chiang', 'Jiun-Hung Fan-Jiang', 'Jyun-Hong Fan-Jiang', 'Jun-Hong Fan-Jiang']
 
   systems.forEach(function (sys, i) {
     var name = romanize('范姜峻宏', sys)

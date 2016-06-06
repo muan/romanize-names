@@ -40,8 +40,12 @@ function processString (str, system) {
     throw new Error('Input contains non-Chinese characters')
   }
 
+  str = removeDiacritics(str).toUpperCase()
+
   // romanization system
-  str = romanizationSys[removeDiacritics(str).toUpperCase()][system]
+  if (system !== 'HANYU') {
+    str = romanizationSys[str][system]
+  }
 
   // titleCase
   str = str.charAt(0).toUpperCase() + str.slice(1, str.length).toLowerCase()

@@ -18,7 +18,8 @@ romanize(name_in_zhTW, system)
 `system` String
   - `WG` (default) https://en.wikipedia.org/wiki/Wade%E2%80%93Giles
   - `MPS-II` https://en.wikipedia.org/wiki/Mandarin_Phonetic_Symbols_II
-  - `HANYU` https://en.wikipedia.org/wiki/Tongyong_Pinyin
+  - `TONGYONG` https://en.wikipedia.org/wiki/Tongyong_Pinyin
+  - `HANYU` https://en.wikipedia.org/wiki/Pinyin
 
 ## Examples
 
@@ -29,8 +30,11 @@ console.log(romanize('張懸'))
 console.log(romanize('張懸', 'MPS-II'))
 > Shiuan Jang
 
-console.log(romanize('張懸', 'HANYU'))
+console.log(romanize('張懸', 'TONGYONG'))
 > Syuan Jhang
+
+console.log(romanize('張懸', 'HANYU'))
+> Xuan Zhang
 ```
 
 ```javascript
@@ -40,8 +44,11 @@ console.log(romanize('秋木安'))
 console.log(romanize('秋木安', 'MPS-II'))
 > Mu-An Chiou
 
-console.log(romanize('秋木安', 'HANYU'))
+console.log(romanize('秋木安', 'TONGYONG'))
 > Mu-An Ciou
+
+console.log(romanize('秋木安', 'HANYU'))
+> Mu-An Qiu
 ```
 
 ```javascript
@@ -51,8 +58,11 @@ console.log(romanize('范姜峻宏'))
 console.log(romanize('范姜峻宏', 'MPS-II'))
 > Jiun-Hung Fan-Jiang
 
-console.log(romanize('范姜峻宏', 'HANYU'))
+console.log(romanize('范姜峻宏', 'TONGYONG'))
 > Jyun-Hong Fan-Jiang
+
+console.log(romanize('范姜峻宏', 'HANYU'))
+> Jun-Hong Fan-Jiang
 ```
 
 ## Data Sources
