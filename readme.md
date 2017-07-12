@@ -24,44 +24,44 @@ romanize(name_in_zhTW, system)
 ## Examples
 
 ```javascript
-console.log(romanize('張懸'))
+romanize('張懸')
 > Hsuan Chang
 
-console.log(romanize('張懸', 'MPS-II'))
+romanize('張懸', 'MPS-II')
 > Shiuan Jang
 
-console.log(romanize('張懸', 'TONGYONG'))
+romanize('張懸', 'TONGYONG')
 > Syuan Jhang
 
-console.log(romanize('張懸', 'HANYU'))
+romanize('張懸', 'HANYU')
 > Xuan Zhang
 ```
 
 ```javascript
-console.log(romanize('秋木安'))
+romanize('秋木安')
 > Mu-An Chiu
 
-console.log(romanize('秋木安', 'MPS-II'))
+romanize('秋木安', 'MPS-II')
 > Mu-An Chiou
 
-console.log(romanize('秋木安', 'TONGYONG'))
+romanize('秋木安', 'TONGYONG')
 > Mu-An Ciou
 
-console.log(romanize('秋木安', 'HANYU'))
+romanize('秋木安', 'HANYU')
 > Mu-An Qiu
 ```
 
 ```javascript
-console.log(romanize('范姜峻宏'))
+romanize('范姜峻宏')
 > Chun-Hung Fan-Chiang
 
-console.log(romanize('范姜峻宏', 'MPS-II'))
+romanize('范姜峻宏', 'MPS-II')
 > Jiun-Hung Fan-Jiang
 
-console.log(romanize('范姜峻宏', 'TONGYONG'))
+romanize('范姜峻宏', 'TONGYONG')
 > Jyun-Hong Fan-Jiang
 
-console.log(romanize('范姜峻宏', 'HANYU'))
+romanize('范姜峻宏', 'HANYU')
 > Jun-Hong Fan-Jiang
 ```
 
